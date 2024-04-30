@@ -11,11 +11,11 @@ gh repo clone nilimakale2807/ExpenseTracker
 
 Example:
 
-<img width="457" alt="Screenshot 2024-04-30 at 9 29 45 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/dd1097d1-4d2f-401e-b50f-376796f0e123">
+<img width="250" alt="Screenshot 2024-04-30 at 9 29 45 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/dd1097d1-4d2f-401e-b50f-376796f0e123">
 
-<img width="437" alt="Screenshot 2024-04-30 at 9 28 53 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/9b11c38f-1cfa-4579-8316-274d467b2efb">
+<img width="250" alt="Screenshot 2024-04-30 at 9 28 53 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/9b11c38f-1cfa-4579-8316-274d467b2efb">
 
-<img width="449" alt="Screenshot 2024-04-30 at 9 29 01 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/f0e15c23-a7b3-4142-8b5c-5c260b366802">
+<img width="250" alt="Screenshot 2024-04-30 at 9 29 01 PM" src="https://github.com/nilimakale2807/ExpenseTracker/assets/45679464/f0e15c23-a7b3-4142-8b5c-5c260b366802">
 
 
 
