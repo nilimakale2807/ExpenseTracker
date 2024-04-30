@@ -1,0 +1,423 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignContent": "center",
+      "flex": 1,
+      "marginTop": 100,
+      "paddingHorizontal": 24,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "testUri": "../../../src/Assets/images/expense.png",
+      }
+    }
+    style={
+      {
+        "alignContent": "center",
+        "alignItems": "center",
+        "height": 200,
+        "margin": 30,
+        "marginLeft": 80,
+        "width": 200,
+      }
+    }
+  />
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "rgba(231, 224, 236, 1)",
+          "borderTopLeftRadius": 4,
+          "borderTopRightRadius": 4,
+        },
+        {
+          "borderColor": "gray",
+          "borderWidth": 1,
+          "marginTop": 8,
+        },
+      ]
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "rgba(73, 69, 79, 1)",
+          "bottom": 0,
+          "height": 1,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "transform": [
+            {
+              "scaleY": 0.5,
+            },
+          ],
+          "zIndex": 1,
+        }
+      }
+      testID="text-input-underline"
+    />
+    <View
+      onLayout={[Function]}
+      style={
+        [
+          {
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          {
+            "minHeight": 40,
+          },
+        ]
+      }
+    >
+      <TextInput
+        cursorColor="rgba(103, 80, 164, 1)"
+        editable={true}
+        maxFontSizeMultiplier={1.5}
+        multiline={false}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        placeholder="Enter username"
+        placeholderTextColor="rgba(73, 69, 79, 1)"
+        selectionColor="rgba(103, 80, 164, 1)"
+        style={
+          [
+            {
+              "margin": 0,
+            },
+            {
+              "height": 40,
+            },
+            {
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            {
+              "color": "rgba(28, 27, 31, 1)",
+              "fontFamily": "System",
+              "fontSize": 16,
+              "fontWeight": undefined,
+              "letterSpacing": 0.15,
+              "lineHeight": undefined,
+              "minWidth": 65,
+              "paddingLeft": 16,
+              "paddingRight": 16,
+              "textAlign": "left",
+              "textAlignVertical": "center",
+            },
+            false,
+            [
+              {},
+            ],
+            undefined,
+          ]
+        }
+        testID="text-input-flat"
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+  <Text
+    collapsable={false}
+    maxFontSizeMultiplier={1.5}
+    onLayout={[Function]}
+    style={
+      {
+        "color": "rgba(179, 38, 30, 1)",
+        "fontFamily": "System",
+        "fontSize": 12,
+        "fontWeight": "400",
+        "letterSpacing": 0.25,
+        "lineHeight": 20,
+        "opacity": 0,
+        "paddingVertical": 4,
+        "textAlign": "left",
+        "transform": [],
+        "writingDirection": "ltr",
+      }
+    }
+  >
+    Username is required
+  </Text>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "rgba(231, 224, 236, 1)",
+          "borderTopLeftRadius": 4,
+          "borderTopRightRadius": 4,
+        },
+        {
+          "borderColor": "gray",
+          "borderWidth": 1,
+          "marginTop": 8,
+        },
+      ]
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "rgba(73, 69, 79, 1)",
+          "bottom": 0,
+          "height": 1,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "transform": [
+            {
+              "scaleY": 0.5,
+            },
+          ],
+          "zIndex": 1,
+        }
+      }
+      testID="text-input-underline"
+    />
+    <View
+      onLayout={[Function]}
+      style={
+        [
+          {
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          {
+            "minHeight": 40,
+          },
+        ]
+      }
+    >
+      <TextInput
+        cursorColor="rgba(103, 80, 164, 1)"
+        editable={true}
+        maxFontSizeMultiplier={1.5}
+        multiline={false}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        onFocus={[Function]}
+        placeholder="Enter password"
+        placeholderTextColor="rgba(73, 69, 79, 1)"
+        secureTextEntry={true}
+        selectionColor="rgba(103, 80, 164, 1)"
+        style={
+          [
+            {
+              "margin": 0,
+            },
+            {
+              "height": 40,
+            },
+            {
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            {
+              "color": "rgba(28, 27, 31, 1)",
+              "fontFamily": "System",
+              "fontSize": 16,
+              "fontWeight": undefined,
+              "letterSpacing": 0.15,
+              "lineHeight": undefined,
+              "minWidth": 65,
+              "paddingLeft": 16,
+              "paddingRight": 16,
+              "textAlign": "left",
+              "textAlignVertical": "center",
+            },
+            false,
+            [
+              {},
+            ],
+            undefined,
+          ]
+        }
+        testID="text-input-flat"
+        underlineColorAndroid="transparent"
+      />
+    </View>
+  </View>
+  <Text
+    collapsable={false}
+    maxFontSizeMultiplier={1.5}
+    onLayout={[Function]}
+    style={
+      {
+        "color": "rgba(179, 38, 30, 1)",
+        "fontFamily": "System",
+        "fontSize": 12,
+        "fontWeight": "400",
+        "letterSpacing": 0.25,
+        "lineHeight": 20,
+        "opacity": 0,
+        "paddingVertical": 4,
+        "textAlign": "left",
+        "transform": [],
+        "writingDirection": "ltr",
+      }
+    }
+  >
+    Password is required
+  </Text>
+  <View
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "rgba(103, 80, 164, 1)",
+        "borderRadius": 20,
+        "marginTop": 10,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0,
+        "shadowRadius": 0,
+        "width": "100%",
+      }
+    }
+    testID="button-container-outer-layer"
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "rgba(103, 80, 164, 1)",
+          "borderColor": "transparent",
+          "borderRadius": 20,
+          "borderStyle": "solid",
+          "borderWidth": 0,
+          "flex": undefined,
+          "minWidth": 64,
+          "shadowColor": "#000",
+          "shadowOffset": {
+            "height": 0,
+            "width": 0,
+          },
+          "shadowOpacity": 0,
+          "shadowRadius": 0,
+        }
+      }
+      testID="button-container"
+    >
+      <View
+        accessibilityRole="button"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            {
+              "overflow": "hidden",
+            },
+            {
+              "borderRadius": 20,
+            },
+          ]
+        }
+        testID="button"
+      >
+        <View
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "center",
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            numberOfLines={1}
+            selectable={false}
+            style={
+              [
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "fontFamily": "System",
+                    "fontSize": 14,
+                    "fontWeight": "500",
+                    "letterSpacing": 0.1,
+                    "lineHeight": 20,
+                  },
+                  [
+                    {
+                      "marginHorizontal": 16,
+                      "marginVertical": 9,
+                      "textAlign": "center",
+                    },
+                    false,
+                    {
+                      "marginHorizontal": 24,
+                      "marginVertical": 10,
+                    },
+                    undefined,
+                    false,
+                    {
+                      "color": "rgba(255, 255, 255, 1)",
+                      "fontFamily": "System",
+                      "fontSize": 14,
+                      "fontWeight": "500",
+                      "letterSpacing": 0.1,
+                      "lineHeight": 20,
+                    },
+                    undefined,
+                  ],
+                ],
+              ]
+            }
+            testID="button-text"
+          >
+            Login
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
